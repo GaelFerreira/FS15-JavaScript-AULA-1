@@ -1,0 +1,2 @@
+document.getelemenetbyid("referencia").innerHtml= "<h1> hello world</h1>"; //ijeta codigo no index.html
+console.log("no console"); // imprime no console do inspecionar elemento //alert("ola mundo!"); // faz aparecer um poput na tela
